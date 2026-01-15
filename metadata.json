@@ -1,0 +1,7 @@
+{
+  "name": "SmartFridge Culinary Assistant",
+  "description": "A high-end cooking assistant that analyzes your fridge via photos to suggest personalized recipes and provides a hands-free voice-guided cooking experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
